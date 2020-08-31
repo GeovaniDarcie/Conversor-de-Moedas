@@ -1,24 +1,17 @@
-# conversor
+# Conversor de moedas 
 
-## Project setup
-```
-npm install
-```
+**Utilizando Vue.Js, esse conversor foi criado para converter de:**
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+  Real para Dólar
+  Dólar para Real
+  
+  Real para Dólar Canadense
+  Dólar Canadense para Real
+  
+  Real para Euro
+  Euro para Real
+  
+**Como utilizar**:
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+   Pasta do projeto utilize o comando:
+       `npm run serve`

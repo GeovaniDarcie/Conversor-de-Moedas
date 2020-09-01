@@ -2,16 +2,16 @@
 
 **Utilizando Vue.Js, esse conversor foi criado para converter de:**
 
-  Real para Dólar
+  Real para Dólar =>
   Dólar para Real
   
-  Real para Dólar Canadense
+  Real para Dólar Canadense =>
   Dólar Canadense para Real
   
-  Real para Euro
+  Real para Euro =>
   Euro para Real
   
 **Como utilizar**:
 
-   Pasta do projeto utilize o comando:
+   Pasta do projeto use o comando:
        `npm run serve`
